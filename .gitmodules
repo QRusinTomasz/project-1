@@ -1,0 +1,3 @@
+[submodule "src/core-ui"]
+	path = src/core-ui
+	url = https://github.com/Qarbon-RusinTomasz/core-ui.git
