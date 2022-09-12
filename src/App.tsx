@@ -7,7 +7,8 @@ function App() {
         <div className="App">
             Project-1
             <Highlight label="Text Project-1" color="gray"/>
-            <Button prefix="Prefix" label="Project 1 trigger" onClick={() => console.log("Project-1 Click")}/>
+            <Button prefix="Prefix" suffix="Suffix" label="Project 1 trigger"
+                    onClick={() => console.log("Project-1 Click")}/>
         </div>
     );
 }
